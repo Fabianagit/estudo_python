@@ -1,0 +1,43 @@
+ 
+* Crie um repositório no site.
+* Instale na máquina o Git Bash, caso não possua
+* Entre em algum diretorio para salvar repositorios 
+* Clique com o botão direito no espaço da pasta e selecione a opção :  Git Bash Here
+* Irá abrir um prompt do Git para uso dos comandos
+
+* Clone o repositório na sua máquina se não tiver
+  exemplo comando:
+   
+
+    git clone https://github.com/Fabianagit/estudo_python.git   #refere-se ao link criado dentro do site do Git Hub
+
+* Posicione no diretorio da pasta do repositorio no seu computador 
+  Exemplo :
+     cd diretorio 
+
+* Fique a vontade para criar arquivos dentro do repositorio,
+  após você adicionar/alterar os arquivos que você quis
+  use o comando :
+ 
+  git add --all
+
+  Para adicionar os arquivos, pois o Git irá entender qual foi modificado /adicionado
+  Comando :
+
+  * Informe seu e-mail para identificar qual seu usuario
+    git config --global user.email "you@example.com"
+    
+  * Digite o comando abaixo para confirmar a alteração no repositorio 
+    git commit -m "Alguma mensagem informada por você"
+
+  * Envie os seus arquivos para o repositorio do site
+    git push origin master
+
+
+
+
+
+
+  
+ 
+  
