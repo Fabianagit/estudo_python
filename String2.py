@@ -1,0 +1,1 @@
+# Em python , strings são objetos, e pode-se aplicar metodos a strings
